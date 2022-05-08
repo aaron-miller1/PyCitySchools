@@ -7,15 +7,13 @@ The purpose of this analysis is to omit certain grades from Thomas High School a
 ## Results
 
 - The District Summary was affected due to the fact that 461 9th graders from Thomas High School had to be ommited from the data in order to test this hypothesis. The overall scores and percentages of passing students decreased as seen in the results below.
-#### BEFORE
+
+#### BEFORE REMOVAL
 ![image](https://user-images.githubusercontent.com/102704559/167281086-f4545819-9665-4421-aaf6-21b8f36e07f1.png)
-#### AFTER
+#### AFTER REMOVAL
 ![image](https://user-images.githubusercontent.com/102704559/167281112-99934210-8f65-45e2-9e37-51772cd6d287.png)
 
-
-
-
-
+- The School Summary analysis was affected greatly in this case. The percentages of passing Math and Reading rose significantly after the removal of 9th grade scores, up from 66.9% and 69.7% respectively, to 93.1% and 97.2%. Even with this massive jump in passing percentage, the overall % was not changed widely. This lead to no changes in Thomas High School still retaining its position as one of the top performing schools.
 
 
 THS BEFORE 9th GRADE REMOVAL
