@@ -22,3 +22,10 @@ THS BEFORE 9th GRADE REMOVAL
 THS AFTER 9th GRADE REMOVAL
 ![image](https://user-images.githubusercontent.com/102704559/167280973-7405863f-2065-452a-a199-c49f3169a9a1.png)
 ![image](https://user-images.githubusercontent.com/102704559/167280912-64127fce-372e-49f1-8d8d-9ac473f1c102.png)
+
+
+- The changes to scores in Thomas Middle School led to changes in all other analysis slightly, due to the increased passing % skewing data for score analysis by grade, school spending, size, and type. However, the changes are very small and often lost when rounding.
+
+## Summary
+
+- Four changes that I noticed throughout this analysis with the removal of the Thomas High School removal of 9th grades math and reading scores is that Thomas High Schools overall performance actually improved substantially as a result. The grades for 9th graders compared to 10-12 were uncharacteristically low therefore dragging what would be considered a top performing school into a middle range performer. Even so, when analyzing the entirety of the district, the overall result changes ended up being negligable and did not change the big picture of things.
